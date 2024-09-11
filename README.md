@@ -62,7 +62,7 @@ DO NOT GIVE ME HIGH LEVEL STUFF, IF I ASK FOR FIX OR EXPLANATION, I WANT ACTUAL 
 - Ctrl/⌘ + L -> Chat with Cursor AI
     Use Claude 3.5 Sonnet for serious coding, and GPT-4o for fun.
 - Ctrl/⌘ K 
-
+- Shift + Ctrl/⌘ + I -> Cursor Composer
 
 ## Play Time
 
