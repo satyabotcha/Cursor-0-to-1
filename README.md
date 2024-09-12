@@ -64,6 +64,15 @@ DO NOT GIVE ME HIGH LEVEL STUFF, IF I ASK FOR FIX OR EXPLANATION, I WANT ACTUAL 
 - Ctrl/⌘ K 
 - Shift + Ctrl/⌘ + I -> Cursor Composer
 
+
 ## Play Time
 
+### Setup Project
+- Go to desktop 
+- Create a new folder called "Cursor Ninja" or Git clone https://github.com/satyabotcha/Cursor_Zero_To_One.git
+- Open "Cursor Ninja" folder in Cursor
+- You should see a bunch of files in the left hand side. Don't freak out (like I did). 
+
+### Lesson 1: Autocomplete
+- 
 
